@@ -1,0 +1,30 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/Alsichkann/" . "Sync/")
+ ("/Users/Alsichkann/Sync/" . "Dropbox/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/Alsichkann/Sync/Dropbox/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "MybibOriginal.bib"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/Alsichkann/Sync/Dropbox/" (22707 56503 0 0) "组合 1.pdf" "ZbyszekCorina/" "Work/" "tmp/" "This is your Dropbox.txt" "Screenshots/" "Public/" "Personal/" "NotesPlus/" "MybibOriginal.bib" "Mybib.bib" "IRClustering/" "Icon
+" "Emacs/" "Camera Uploads/" "auto/" "1Password.agilekeychain/" ".ws.agile.1Password.settings" ".emacs.d/" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/Alsichkann/Sync/" (22689 13276 0 0) "英语口音纠正课程_5B中英文字幕_5D_5B含全部4DVD内容_5D-iphonepod.mp4" "Weiyun/" "Thumbs.db" "PicturesBackup/" "org-html-themes-master/" "Mendeley/" "MendDrop/" "Matlab2015aWindow/" "MacBookProDisk/" "HyperDock (1).dmg" "DropboxOld/" "Dropbox/" "CloudStation/" "CalibreBooks/" "Book/" "360Cloud/" ".DS_Store" ".com.apple.timemachine.supported" "../" "./")
+
+ ("/Users/Alsichkann/" (22706 53273 0 0) "微云同步盘/" "yasnippet/" "Sync/" "Public/" "Pictures/" "Music/" "Movies/" "Mendeley/" "Library/" "hosts" "Downloads/" "Documents/" "Desktop/" "Calibre Library/" "Applications (Parallels)/" "Applications/" ".yunpan/" ".uuid" ".Trash/" ".TemporaryItems/" ".Synology/" ".subversion/" ".ssh/" ".sogouinput/" ".smb/" ".ShadowsocksX-NG/" ".ShadowsocksX/" ".org-timestamps/" ".oracle_jre_usage/" ".mplayer/" ".matlab/" ".kodi/" ".goodsync/" ".goldendict/" ".foradictionary/" ".fdconfig" ".emacs~" ".emacs.d/" ".emacs" ".dvdcss/" ".DS_Store" ".dropbox/" ".docear/" ".cups/" ".config/" ".CloudStationBackup/" ".CloudStation/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" ".apdisk" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

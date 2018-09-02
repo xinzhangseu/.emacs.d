@@ -1,0 +1,139 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Sep  2 17:32:10 2018
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23435 44570 768727 0) (desktop . "208") "Alsichkann@XINS-IMAC" nil nil ((((minibuffer . t) (font-backend mac-ct) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "wheat") (background-color . "darkslategrey") (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (undecorated) (ns-appearance . dark) (ns-transparent-titlebar . t) (z-group) (no-focus-on-map) (no-accept-focus) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "LightGray") (environment) (border-color . "black") (mouse-color . "Grey") (tool-bar-here-mode . t) (frameset--id . "FCAF-F0E7-FFC3-A9E1") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . "XINS-IMAC") (explicit-name) (tool-bar-position . top) (user-size . t) (visibility . t) (top-toolbar-shadow-color . "#e6e6e6e6e6e6") (bottom-toolbar-shadow-color . "#737373737373") (background-toolbar-color . "#bfbfbfbfbfbf") (scroll-bar-background . "grey75") (scroll-bar-foreground . "WhiteSmoke") (ns-transparent-tabbar . t) (height . 36) (width . 128) (left . 0) (top . 0)) ((min-height . 8) (min-width . 10) (min-height-ignore . 5) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 136) (min-pixel-width . 80) (min-pixel-height-ignore . 85) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 34) (min-pixel-width-safe . 16)) vc (pixel-width . 1055) (pixel-height . 595) (total-width . 131) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1055) (pixel-height . 306) (total-width . 131) (total-height . 18) (normal-height . 0.5) (normal-width . 1.0) (buffer "config" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 92) (start . 1))) (leaf (last . t) (pixel-width . 1055) (pixel-height . 289) (total-width . 131) (total-height . 17) (normal-height . 0.5) (normal-width . 1.0) (buffer ".emacs<.emacs.d>" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 32) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("glo" "linu" "lin" "linum" "linu" "lin" "bu" "me" "tool" "tab" "ref" "bib" "sun" "markov" "markovi" "marko"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/Users/Alsichkann/Sync/Dropbox/Work/FundAppl/懼袘英懥獞合懴顟目/Topic.bbl" "/Users/Alsichkann/Sync/Dropbox/Work/FundAppl/懼袘英懥獞合懴顟目/Topic.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/Siu/Inflation/ZZS-RevisedKenSiu-27August2018.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/Siu/Inflation/ZZGS-RevisedKenSiu-3August2018.bbl" "" "RiskMeaHJBIRegimeRevisedApril2011TwoMarkov" "~/Sync/Dropbox/Work/Research/Siu/Robust/RiskMeaHJBIRegimeRevisedApril2011TwoMarkov.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/ZhenXiaoXiao/ZZG0807/ZZGS-RevisedKenSiu-3August2018.tex" "~/Downloads/LaTex.tex" "/Users/Alsichkann/Sync/Dropbox/Work/FundAppl/懼袘英懥獞合懴顟目/NSFC.tex" "/Users/Alsichkann/Sync/Dropbox/Work/FundAppl/懼袘英懥獞合懴顟目/NSFC.bbl" "/Users/Alsichkann/Sync/Dropbox/Work/FundAppl/懼袘英懥獞合懴顟目/NSFC.tex" "/Users/Alsichkann/Sync/Dropbox/Work/FundAppl/懼袘英懥獞合懴顟目/NSFC.bbl" "/Users/Alsichkann/Sync/Dropbox/Work/Research/Sun/MV-ALM/MV_ALM.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-RS-R6.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-RS-R5.tex" "SLQ-Regime-SwitchingR5" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/RS-5.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR5.tex" "~/Sync/Dropbox/Work/Research/HK/" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR5.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR5.bbl" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR5.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/Liang/RS-Terminal20180731.bbl" "/Users/Alsichkann/Sync/Dropbox/Work/MyLatexModels/ArticleModelFinal.bbl" "/Users/Alsichkann/Sync/Dropbox/Work/Research/ZhangShuaiqi/investment with delay20180709.tex" "~/Sync/Dropbox/Work/Research/ZhangShuaiqi/investment with delay20180709.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR3.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR2.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2018/Exam/AM2018/AM-B-20180602.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2018/Exam/AM2018/AM-A-20180602.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR2.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR2.bbl" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR2.tex" "~/Sync/Dropbox/Work/@PapersOld/MQWork/RiskHJBIRegime/RiskMeaHJBIRegimeRevisedApril2011R.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF-Final-0512/MCRF-Final-20180512.tex" "MCRF-Final-20180512" "~/Sync/Dropbox/Work/Research/Review/Report JIMO3.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF_R1/Template_R20180327.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF_R1/ResponseMCRF-20180327.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF_R1/Template_R20180327.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF_R1/ResponseMCRF-20180327.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF_R1/Template_R20180327.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF_R1/ResponseMCRF-20180327.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF_R1/ResponseMCRF-20180327.bbl" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF_R1/ResponseMCRF-20180327.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/UM/RISKHJBI/MCRF/MCRF_R1/Template_R20180327.tex" "ResponseMCRF-20180327" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR2.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Submission.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR2.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Submission.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-Regime-SwitchingR2.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2017/ProbHw/HW-08-Prob/HW-08-Prob.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Research/Sun/MFRegime/SIAM0401/docultex.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2017/Probability/L20-Prob2017-Hand.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2017/Probability/L16-Prob2017-Hand.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2017/Probability/L15-Prob2017-Slide.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2017/Probability/L15-Prob2017-Hand.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2017/ProbHw/HW-04-Prob.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2017/Probability/L12-Prob2017-Slide.tex" "/Users/Alsichkann/Sync/Dropbox/Work/Classes/2017/ProbHw/HW-03-Prob.tex" "~/Sync/Dropbox/Work/Research/Review/Report JIMO2.tex"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/Alsichkann/.emacs.d/.git/config"
+  "config"
+  'conf-unix-mode
+  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
+  92
+  '(92 nil)
+  nil
+  nil
+  '((buffer-display-time 23435 44536 871158 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/Alsichkann/.emacs.d/emacs.el/my-el-get.el"
+  "my-el-get.el"
+  'emacs-lisp-mode
+  '(eldoc-mode override-global-mode yas-minor-mode helm-mode auto-complete-mode TeX-PDF-mode auto-revert-mode magit-file-mode)
+  2628
+  '(2155 nil)
+  nil
+  nil
+  '((buffer-display-time 23435 44513 707313 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2728 1743 1454 1595 1390 1667 1603 1679 1535 1382 1358 1363 24 1445 1539 2628))))
+
+(desktop-create-buffer 208
+  "/Users/Alsichkann/.emacs.d/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(eldoc-mode override-global-mode yas-minor-mode helm-mode auto-complete-mode TeX-PDF-mode auto-revert-mode magit-file-mode)
+  32
+  '(2416 nil)
+  nil
+  nil
+  '((buffer-display-time 23435 44536 871158 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (905))))
+
+(desktop-create-buffer 208
+  "/Users/Alsichkann/.emacs.d/emacs.el/myemacs.el"
+  "myemacs.el"
+  'emacs-lisp-mode
+  '(auto-fill-mode eldoc-mode override-global-mode yas-minor-mode helm-mode auto-complete-mode TeX-PDF-mode auto-revert-mode magit-file-mode)
+  4227
+  '(4045 nil)
+  nil
+  nil
+  '((buffer-display-time 23435 37673 959488 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4281 4293 4044 4321 18 4193 187 4228 4194 3636 3882 3830 4415 3170 3169 4227))))
+
+(desktop-create-buffer 208
+  "/Users/Alsichkann/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(eldoc-mode override-global-mode yas-minor-mode helm-mode auto-complete-mode TeX-PDF-mode)
+  182
+  '(1410 nil)
+  nil
+  nil
+  '((buffer-display-time 23435 36559 973019 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (201 1463 1410 1169 1410 1410 1410 1410 1412 1412 1412 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/Users/Alsichkann/Sync/Dropbox/Work/FundAppl/UKChina/Topic.tex"
+  "Topic.tex"
+  'latex-mode
+  '(override-global-mode yas-minor-mode helm-mode reftex-mode auto-complete-mode TeX-PDF-mode flyspell-mode)
+  1527
+  '(1776 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23435 32645 649781 0) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring (1195 1448 737 448 501 1263 668 12661 156 768 10537 5468 5468 5091 15708 1633))))
+
+(desktop-create-buffer 208
+  "/Users/Alsichkann/.emacs.d/emacs.el/emacs-tex.el"
+  "emacs-tex.el"
+  'emacs-lisp-mode
+  '(eldoc-mode override-global-mode yas-minor-mode helm-mode auto-complete-mode TeX-PDF-mode auto-revert-mode magit-file-mode)
+  5168
+  '(2499 nil)
+  nil
+  nil
+  '((buffer-display-time 23435 32018 329118 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2874 2906 148 2910 2910 2903 2499))))
+
+(desktop-create-buffer 208
+  "/Users/Alsichkann/Sync/Dropbox/Work/Research/Siu/Robust/RiskMeaHJBIRegimeOM.tex"
+  "RiskMeaHJBIRegimeOM.tex"
+  'latex-mode
+  '(override-global-mode yas-minor-mode helm-mode reftex-mode auto-complete-mode TeX-PDF-mode flyspell-mode)
+  9054
+  '(2228 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23435 30898 686075 0) (buffer-file-coding-system . utf-8-dos) (TeX-master . t))
+  '((mark-ring (4053 9055 9090 9054))))
+
+(desktop-create-buffer 208
+  "/Users/Alsichkann/Sync/Dropbox/Work/Research/HK/SLQ-RS-R6.tex"
+  "SLQ-RS-R6.tex"
+  'latex-mode
+  '(override-global-mode yas-minor-mode helm-mode reftex-mode auto-complete-mode TeX-PDF-mode flyspell-mode)
+  868
+  '(840 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23434 13182 382767 0) (buffer-file-coding-system . utf-8-unix) (TeX-master . t))
+  '((mark-ring (562 868 868))))
+
+(desktop-create-buffer 208
+  "/Users/Alsichkann/Sync/Dropbox/Doi.bib"
+  "Doi.bib"
+  'bibtex-mode
+  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23435 38292 788022 0) (buffer-file-coding-system . undecided-unix) (TeX-master . t))
+  '((mark-ring nil)))
+
