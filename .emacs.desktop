@@ -2,12 +2,12 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Mon Sep  3 12:06:12 2018
+;; Created Mon Sep  3 12:23:59 2018
 ;; Desktop file format version 208
 ;; Emacs version 26.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (23436 45876 506921 0) (desktop . "208") "Alsichkann@XINS-IMAC" nil nil ((((minibuffer . t) (font-backend mac-ct) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "wheat") (background-color . "darkslategrey") (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (undecorated) (ns-appearance . dark) (ns-transparent-titlebar . t) (z-group) (no-focus-on-map) (no-accept-focus) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "LightGray") (environment) (border-color . "black") (mouse-color . "Grey") (tool-bar-here-mode . t) (frameset--id . "FCAF-F0E7-FFC3-A9E1") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . "XINS-IMAC") (explicit-name) (tool-bar-position . top) (user-size . t) (visibility . t) (top-toolbar-shadow-color . "#e6e6e6e6e6e6") (bottom-toolbar-shadow-color . "#737373737373") (background-toolbar-color . "#bfbfbfbfbfbf") (scroll-bar-background . "grey75") (scroll-bar-foreground . "WhiteSmoke") (ns-transparent-tabbar . t) (height . 36) (width . 128) (left . 0) (top . 0)) ((min-height . 8) (min-width . 10) (min-height-ignore . 5) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 136) (min-pixel-width . 80) (min-pixel-height-ignore . 85) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 34) (min-pixel-width-safe . 16)) vc (pixel-width . 1055) (pixel-height . 595) (total-width . 131) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1055) (pixel-height . 306) (total-width . 131) (total-height . 18) (normal-height . 0.5) (normal-width . 1.0) (buffer ".emacs" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 202) (start . 1))) (leaf (last . t) (pixel-width . 1055) (pixel-height . 289) (total-width . 131) (total-height . 17) (normal-height . 0.5) (normal-width . 1.0) (buffer "magit: .emacs.d" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1)))))])
+(setq desktop-saved-frameset [frameset 1 (23436 46943 85622 0) (desktop . "208") "Alsichkann@XINS-IMAC" nil nil ((((minibuffer . t) (font-backend mac-ct) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "wheat") (background-color . "darkslategrey") (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (undecorated) (ns-appearance . dark) (ns-transparent-titlebar . t) (z-group) (no-focus-on-map) (no-accept-focus) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "LightGray") (environment) (border-color . "black") (mouse-color . "Grey") (tool-bar-here-mode . t) (frameset--id . "FCAF-F0E7-FFC3-A9E1") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . "XINS-IMAC") (explicit-name) (tool-bar-position . top) (user-size . t) (visibility . t) (top-toolbar-shadow-color . "#e6e6e6e6e6e6") (bottom-toolbar-shadow-color . "#737373737373") (background-toolbar-color . "#bfbfbfbfbfbf") (scroll-bar-background . "grey75") (scroll-bar-foreground . "WhiteSmoke") (ns-transparent-tabbar . t) (height . 36) (width . 128) (left . 0) (top . 0)) ((min-height . 8) (min-width . 10) (min-height-ignore . 5) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 136) (min-pixel-width . 80) (min-pixel-height-ignore . 85) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 34) (min-pixel-width-safe . 16)) vc (pixel-width . 1055) (pixel-height . 595) (total-width . 131) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1055) (pixel-height . 306) (total-width . 131) (total-height . 18) (normal-height . 0.5) (normal-width . 1.0) (buffer "dropdown-list" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 411) (start . 1))) (leaf (last . t) (pixel-width . 1055) (pixel-height . 289) (total-width . 131) (total-height . 17) (normal-height . 0.5) (normal-width . 1.0) (buffer "el-get" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 1015) (start . 204)))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
@@ -18,6 +18,90 @@
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 208
+  nil
+  "dropdown-list"
+  'dired-mode
+  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
+  411
+  '(411 nil)
+  t
+  '("/Users/Alsichkann/.emacs.d/el-get/dropdown-list/")
+  '((buffer-display-time 23436 46903 635004 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "el-get"
+  'dired-mode
+  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
+  1015
+  '(667 nil)
+  t
+  '("/Users/Alsichkann/.emacs.d/el-get/")
+  '((buffer-display-time 23436 46903 635004 0))
+  '((mark-ring (603 735 881 1015))))
+
+(desktop-create-buffer 208
+  nil
+  "cdlatex-mode"
+  'dired-mode
+  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
+  272
+  '(nil nil)
+  t
+  '("/Users/Alsichkann/.emacs.d/el-get/cdlatex-mode/")
+  '((buffer-display-time 23436 46850 725026 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "auto-complete-yasnippet"
+  'dired-mode
+  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
+  279
+  '(nil nil)
+  t
+  '("/Users/Alsichkann/.emacs.d/el-get/auto-complete-yasnippet/")
+  '((buffer-display-time 23436 46849 112602 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "ac-math"
+  'dired-mode
+  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
+  270
+  '(nil nil)
+  t
+  '("/Users/Alsichkann/.emacs.d/el-get/ac-math/")
+  '((buffer-display-time 23436 46846 94592 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "auto-complete"
+  'dired-mode
+  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
+  476
+  '(nil nil)
+  t
+  '("/Users/Alsichkann/.emacs.d/el-get/auto-complete/")
+  '((buffer-display-time 23436 46836 788236 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
+  1308
+  '(1310 nil)
+  t
+  '("/Users/Alsichkann/.emacs.d/")
+  '((buffer-display-time 23436 46833 49571 0))
+  '((mark-ring (1308))))
+
+(desktop-create-buffer 208
   "/Users/Alsichkann/.emacs.d/.emacs"
   ".emacs"
   'emacs-lisp-mode
@@ -26,19 +110,7 @@
   '(202 nil)
   nil
   nil
-  '((buffer-display-time 23436 45844 244452 0) (buffer-file-coding-system . utf-8-unix))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  nil
-  ".emacs.d"
-  'dired-mode
-  '(override-global-mode yas-minor-mode helm-mode TeX-PDF-mode)
-  381
-  '(nil nil)
-  t
-  '("/Users/Alsichkann/.emacs.d/")
-  '((buffer-display-time 23436 45711 751508 0))
+  '((buffer-display-time 23436 46202 201702 0) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
