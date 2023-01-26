@@ -1,1 +1,1 @@
-("~/.emacs.d/")
+("~/Library/CloudStorage/GoogleDrive-x.zhang.seu@gmail.com/My Drive/RStudio/QuartoBooks/Mac-Settings/" "~/.emacs.d/")
