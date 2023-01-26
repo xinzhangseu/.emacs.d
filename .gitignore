@@ -4,4 +4,6 @@ auto-save-list/
 #.*
 .emacs.desktop
 .emacs.desktop.*
+.DS_Store
+history
 
