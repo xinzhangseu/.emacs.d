@@ -1,0 +1,7 @@
+eln-cache/
+.tmp.driveupload/
+auto-save-list/
+#.*
+.emacs.desktop
+.emacs.desktop.*
+
