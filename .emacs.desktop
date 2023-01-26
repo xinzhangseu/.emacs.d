@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Jan 26 10:23:30 2023
+;; Desktop file format version 208
+;; Emacs version 28.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25553 58402 975256 0) (desktop . "208") "alsichkann@Xins-iMac-2.local" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-*-Monaco-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "mac:textColor") (background-color . "mac:textBackgroundColor") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (alpha) (scroll-bar-foreground . "white") (scroll-bar-background) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (inhibit-double-buffering) (menu-bar-lines . 1) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 15) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . light) (cursor-color . "black") (environment) (last-focus-update) (frameset--id . "9ED4-755D-3EBF-8B45") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . "Mac") (explicit-name) (tool-bar-position . top) (height . 88) (width . 179) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 64) (min-pixel-width . 70) (min-pixel-height-ignore . 32) (min-pixel-width-ignore . 35) (min-pixel-height-safe . 16) (min-pixel-width-safe . 14)) leaf (pixel-width . 1269) (pixel-height . 1396) (total-width . 181) (total-height . 87) (normal-height . 1.0) (normal-width . 1.0) (buffer "web.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 2820) (start . 1)) (prev-buffers ("web.org" 912 1896) ("init.el" 1 3142) ("*Messages*" 1 129) ("*scratch*" 1 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/init.el" "~/Library/CloudStorage/OneDrive-东南大学/@Work/教学/本科/本科生课程/概率论/Exam/Prob2018ExamA.tex" "~/Library/CloudStorage/OneDrive-东南大学/ChromeDownload/install-latex-guide-zh-cn.tex" "~/Library/CloudStorage/OneDrive-东南大学/@Work/教学/本科/本科生课程/概率论/Probability-2022/L09-12.tex" "~/Library/CloudStorage/OneDrive-东南大学/ChromeDownload/Relaxed_control_with_markov_chains_twocolumns.tex" "~/Library/CloudStorage/GoogleDrive-x.zhang.seu@gmail.com/My Drive/20220504-MPE/20220504-MPE.tex" "~/Library/CloudStorage/OneDrive-东南大学/BackUp/ForgetPW.txt" "~/Sync/iMac 2016/Dropbox/nvALT/ForgetPW.txt" "~/Library/CloudStorage/OneDrive-东南大学/nvALT/Finance.txt" "~/Library/CloudStorage/OneDrive-东南大学/BackUp/Personal/Personal-Drop/Personal.txt" "~/Library/CloudStorage/OneDrive-东南大学/@Research/PhD/FanWu/论文提交的准备材料/期刊发来的邮件.txt" "~/Library/CloudStorage/OneDrive-东南大学/@Research/PhD/FanWu/论文提交的准备材料/References.txt" "~/Library/CloudStorage/OneDrive-东南大学/@Research/PhD/FanWu/论文提交的准备材料/期刊发来的邮件.txt" "~/Library/CloudStorage/OneDrive-东南大学/nvALT/文交所.txt" "~/Sync/Emacs/Org/web.org"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/alsichkann/Sync/Emacs/Org/web.org"
+  "web.org"
+  'org-mode
+  '(override-global-mode projectile-mode global-auto-revert-mode TeX-PDF-mode company-mode ivy-mode flyspell-mode org-indent-mode org-zotxt-mode org-fancy-priorities-mode)
+  2820
+  '(1895 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 25553 58363 650607 0) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((mark-ring (1741 1742))))
+
+(desktop-create-buffer 208
+  "/Users/alsichkann/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(eldoc-mode override-global-mode projectile-mode global-auto-revert-mode TeX-PDF-mode company-mode ivy-mode flyspell-mode hs-minor-mode)
+  3142
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25553 58252 834575 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+

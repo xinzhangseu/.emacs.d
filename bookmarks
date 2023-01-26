@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-capture-last-stored-marker"
+ (filename . "~/Sync/Emacs/Org/agenda/GTD.org")
+ (front-context-string . "** TODO \n \n [[fi")
+ (rear-context-string . "da/todo.org\")]]\n")
+ (position . 214))
+("org-refile-last-stored"
+ (filename . "~/Sync/Emacs/Org/agenda/todo.org")
+ (front-context-string . "** 待办事项\n*** TODO")
+ (rear-context-string . "cs-org.el::))]]\n")
+ (position . 99))
+("org-capture-last-stored"
+ (filename . "~/Sync/Emacs/Org/agenda/GTD.org")
+ (front-context-string . "** TODO \n \n [[fi")
+ (rear-context-string . " 'org-capture]]\n")
+ (position . 96))
+)
