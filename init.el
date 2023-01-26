@@ -87,9 +87,12 @@
 
 
 ;;=========================================================Quarto==========================================================================>
+
+(unless (getenv "LC_ALL") (setenv "LC_ALL" "en_US.UTF-8"));;set R local
 (require 'quarto-mode)   ;; load the library
 
 (use-package quarto-mode
+  :mode (("\\.qmd" . poly-quarto-mode))
   :mode (("\\.Rmd" . poly-quarto-mode))
   )
 ;;=========================================================================================================================================>
@@ -152,7 +155,25 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
-   '(quarto-mode org-fancy-priorities org-superstar org-protocol-capture-html orca org-protocol cal-china-x magit org-bullets projectile zotxt use-package company auto-complete-auctex auctex)))
+   '(quarto-mode org-fancy-priorities org-superstar org-protocol-capture-html orca org-protocol cal-china-x magit org-bullets projectile zotxt use-package company auto-complete-auctex auctex))
+ '(warning-suppress-log-types '((comp) (comp) (comp) (comp)))
+ '(warning-suppress-types
+   '((comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp)
+     (comp))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
